@@ -12,8 +12,8 @@ npm install - reads the package-lock.json and installs the package dependencies 
 
 ###### Run server
 ```
-npm run 
+npm run build
 ```
-will host site locally at port 8080
+starts node server to host it locally at 8080
 
 
